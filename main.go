@@ -1,6 +1,6 @@
 package main
 
-import "github.com/QingShan2077/learn-go/ch2"
+import "github.com/QingShan2077/learn-go/ch3"
 
 func main() {
 	/*********ch1*********/
@@ -9,6 +9,11 @@ func main() {
 	/*********ch2*********/
 	//ch2.Boiling()
 	//ch2.Echo4()
-	ch2.Gcd(2, 6)
-
+	//ch2.Gcd(2, 6)
+	//ch2.ShowFor()
+	/*********ch3*********/
+	//ch3.ShowUint8()
+	//ch3.Showint8()
+	//ch3.ShowSVG()
+	ch3.ShowString()
 }
