@@ -7,6 +7,7 @@ import "fmt"
 // 常量定义
 const boilingF = 212.0
 
+// Boiling()首字母大写，才能在别的包中被引用，首字母大写就相当于别的语言中的public字段
 func Boiling() {
 	//var f float64 = boilingF
 	//var f = boilingF
