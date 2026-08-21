@@ -17,5 +17,6 @@ func main() {
 	//ch3.ShowSVG()
 	//ch3.ShowString()
 	/*********ch4*********/
-	ch4.ShowList()
+	//ch4.ShowList()
+	ch4.Reverse()
 }

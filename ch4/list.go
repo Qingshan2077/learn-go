@@ -16,4 +16,11 @@ func ShowList() {
 	for _, v := range a {
 		fmt.Printf("%d\n", v)
 	}
+	// 定义数组
+	var q [3]int = [3]int{1, 2, 3}
+	// 变长数组
+	p := [...]int{1, 2, 3}
+	fmt.Println(q)
+	fmt.Println(p)
+
 }
